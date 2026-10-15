@@ -1,5 +1,4 @@
 # whathappened.here
-# whathappened.here
 
 `whathappened.here` is a lightweight, map-first social check-in and review application built on top of OpenStreetMap (OSM). It acts as an open-source decentralized alternative to Foursquare, allowing users to log into OpenStreetMap, explore places, write reviews with Markdown and image uploads, and permalink specific posts or locations.
 
